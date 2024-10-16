@@ -20,3 +20,9 @@ How it works:
 3. It prompts the user to guess the number, counting the number of attempts.
 4. After each guess, it provides feedback on whether the guess is too high or too low.
 The game continues until the user guesses the correct number, at which point it congratulates them and displays the number of attempts
+
+OUTPUT OF THE PROJECT 
+_________________________________________________________
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/d29bd29c-83b7-423f-b3b4-4a5af8d39c04">
+
